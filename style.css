@@ -86,3 +86,25 @@ body {
     justify-content: center;
     margin-right: 10%;
 }
+
+.hero-text-right .hero-text-image {
+    display: flex;
+    width: 500px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    background-color: #6d747e;
+    border-radius: 10px;
+}
+
+/* Section 1 */
+
+
+/* Section 2 */
+
+
+/* Section 3 */
+
+
+/* Footer */
+
