@@ -17,15 +17,14 @@ body {
 .navbar {
     background-color: #1F2937;
     display: flex;
-    flex: 1;
 }
 
 .navbar-logo {
     display: flex;
     flex: 1;
+    margin-left: 10%;
     color: #F9FAF8;
     font-size: 24px;
-    margin-left: 10%;
     font-weight: 700;
 }
 
@@ -33,14 +32,15 @@ body {
     display: flex;
     flex: 1;
     margin-right: 10%;
+    justify-content: flex-end;
 }
 
 .linktext {
     display: flex;
-    flex: 1;
+    flex: auto;
     color: #E5E7EB;
     font-size: 18px;
-    flex-direction: row-reverse;
+    max-width: 150px;
 }
 
 /* Hero text */
